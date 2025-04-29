@@ -1,4 +1,4 @@
-package techlab;
+package techlab.sibelius.ecommerce;
 
 import techlab.sibelius.ecommerce.domain.Cliente;
 import techlab.sibelius.ecommerce.system.ClienteController;
