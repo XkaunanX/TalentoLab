@@ -1,5 +1,9 @@
 # TalentoLab
 
+## Practica 1
+
+Instalar Intellij IDEA
+
 ## Practica 2
 
 En TechLab, Silvia (Product Owner) ha recibido nuevas solicitudes del cliente “Sibelius”. El equipo de desarrollo (Matías y Sabrina) se enfrenta a varios pequeños problemas cotidianos del proyecto de e-commerce. Cada uno de estos problemas se resolverá aplicando un concepto de programación. Los problemas que enfrentaremos en TalentoLab esta semana son los siguientes:
