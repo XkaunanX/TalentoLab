@@ -1,5 +1,11 @@
 # TalentoLab
 
+Imaginá que recibís una invitación para participar en el proceso de selección de Talento Lab una startup ubicada en Buenos Aires. 
+
+¿Cuál sería el reto? 
+
+Completar una pasantía de aprendizaje que pondrá a prueba todas tus habilidades y aprendizaje. A partir de este momento un equipo de expertos te guiarán en este emocionante viaje.
+
 ## Practica 1
 
 Instalar Intellij IDEA
