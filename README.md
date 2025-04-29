@@ -1,6 +1,6 @@
 # TalentoLab
 
-### Practica 2
+## Practica 2
 
 En TechLab, Silvia (Product Owner) ha recibido nuevas solicitudes del cliente “Sibelius”. El equipo de desarrollo (Matías y Sabrina) se enfrenta a varios pequeños problemas cotidianos del proyecto de e-commerce. Cada uno de estos problemas se resolverá aplicando un concepto de programación. Los problemas que enfrentaremos en TalentoLab esta semana son los siguientes:
 
@@ -14,7 +14,7 @@ Debemos verificar si tenemos suficiente stock para cubrir una demanda específic
 
 Hay que procesar una lista de productos pendientes de revisión. Primero intentaremos una solución con while y luego notaremos que for podría ser más elegante.
 
-#### Practica 3
+## Practica 3
 
 Silvia, la Product Owner, tiene en el backlog* una serie de pedidos del cliente:
 
